@@ -10,7 +10,7 @@
         {
             "name": "Dominic Lipscombe",
             "email": "dominic.lipscombe@spidergroup.co.uk"
-        },
+        }
     ],
     "require": {
         "php": ">=7.1.0",
